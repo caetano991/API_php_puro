@@ -43,6 +43,7 @@ Acesse a pasta:
 cd nome-do-projeto
 
 Configure a conexão com o banco no arquivo PHP:
+## SEU .env:
 
 DB_HOST=localhost
 DB_NAME=consumo_api
